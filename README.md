@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Jayme! I'm a first year studying Computer Science. In my free time (rare), I love to do calligraphy, ski, sleep, and yap. I'm from California, so I love the beach and I will take you on a tour if you're ever in OC. 
+Hi, I'm Jayme!
+I'm a first year studying Computer Science.
+In my free time (rare), I love to do calligraphy, ski, sleep, and yap.
+I'm from California, so I love the beach and I will take you on a tour if you're ever in OC. 
+Feel free to reach out to me at jaymejc@seas.upenn.edu!
